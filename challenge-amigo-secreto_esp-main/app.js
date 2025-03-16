@@ -21,6 +21,13 @@ function agregarAmigo() {
     input.value = "";
 }
 
+// Permitir agregar amigos con la tecla Enter
+document.getElementById("amigo").addEventListener("keypress", function(event) {
+    if (event.key === "Enter") {
+        agregarAmigo();
+    }
+});
+
 // Función para actualizar la lista en pantalla
 function actualizarLista() {
     let lista = document.getElementById("listaAmigos");
@@ -61,12 +68,18 @@ function asignarAmigosSecreto(lista) {
     return asignados;
 }
 
-// Función para mostrar los resultados del sorteo
+// Función para mostrar los resultados del sorteo con animación
 function mostrarResultado(asignaciones) {
     let resultado = document.getElementById("resultado");
     resultado.innerHTML = "<h3>Resultados del sorteo:</h3>";
 
+    let delay = 0;
     for (let [amigo, asignado] of Object.entries(asignaciones)) {
-        resultado.innerHTML += `<p>${amigo} → ${asignado}</p>`;
+        let p = document.createElement("p");
+        p.textContent = `${amigo} → ${asignado}`;
+        p.style.opacity = 0;
+        p.style.animation = `fadeIn 0.5s ease-in-out ${delay}s forwards`;
+        resultado.appendChild(p);
+        delay += 0.5;
     }
 }

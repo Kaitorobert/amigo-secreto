@@ -23,8 +23,6 @@ El **Amigo Secreto** es una aplicación web que facilita la organización del tr
 
 ## 🔧 Funcionalidades
 
-## 🔧 Funcionalidades
-
 - **Agregar Participantes:** Permite ingresar nombres de los participantes.  
 
   ![Agregar Participantes](https://github.com/Kaitorobert/amigo-secreto/blob/main/challenge-amigo-secreto_esp-main/assets/agregar-participante.png?raw=true)

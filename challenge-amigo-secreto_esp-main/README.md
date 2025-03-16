@@ -32,6 +32,7 @@ El **Amigo Secreto** es una aplicación web que facilita la organización del tr
 - **Animaciones Dinámicas:** Los resultados del sorteo se muestran con efectos visuales atractivos.  
   <img src="https://github.com/Kaitorobert/amigo-secreto/blob/main/challenge-amigo-secreto_esp-main/assets/animaciondinamica.png?raw=true" width="600">
 
+
   
 ## 🌐 Acceso al Proyecto
 

@@ -24,6 +24,7 @@ El **Amigo Secreto** es una aplicación web que facilita la organización del tr
 ## 🔧 Funcionalidades
 
 - **Agregar Participantes:** Permite ingresar nombres de los participantes.
+![Agregar Participantes](img/agregar-participante.png)
 - **Sorteo Automático:** Asigna aleatoriamente cada participante a su amigo secreto.
 - **Animaciones Dinámicas:** Los resultados del sorteo se muestran con efectos visuales atractivos.
 - **Interacción Mejorada:** Posibilidad de agregar participantes presionando la tecla "Enter".

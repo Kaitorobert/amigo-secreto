@@ -1,6 +1,8 @@
 # 🎁 Amigo Secreto
+<p align="center">
+  <img src="https://github.com/Kaitorobert/amigo-secreto/blob/main/challenge-amigo-secreto_esp-main/assets/amigo-secreto.png?raw=true" width="800">
+</p>
 
-![Portada del Proyecto](ruta/a/tu/imagen-de-portada.png)
 
 ## 📋 Índice
 

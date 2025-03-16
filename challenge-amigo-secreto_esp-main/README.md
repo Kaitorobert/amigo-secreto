@@ -49,4 +49,4 @@ Agradecemos a todos los que han contribuido a este proyecto. Si deseas contribui
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/tu-usuario/amigo-secreto/blob/main/LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/Kaitorobert/amigo-secreto/blob/main/challenge-amigo-secreto_esp-main/LICENSE) para más detalles.

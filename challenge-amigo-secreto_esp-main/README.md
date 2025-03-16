@@ -26,9 +26,8 @@ El **Amigo Secreto** es una aplicación web que facilita la organización del tr
 - **Agregar Participantes:** Permite ingresar nombres de los participantes.  
   ![Agregar Participantes](https://github.com/Kaitorobert/amigo-secreto/blob/main/challenge-amigo-secreto_esp-main/assets/agregar-participante.png?raw=true)
 
--- **Sorteo Automático:** Asigna aleatoriamente cada participante a su amigo secreto.  
+- **Sorteo Automático:** Asigna aleatoriamente cada participante a su amigo secreto.  
   <img src="https://github.com/Kaitorobert/amigo-secreto/blob/main/challenge-amigo-secreto_esp-main/assets/sorteo%20autom%C3%A1tico.png?raw=true" width="600">
-
 
 - **Animaciones Dinámicas:** Los resultados del sorteo se muestran con efectos visuales atractivos.  
   <img src="https://github.com/Kaitorobert/amigo-secreto/blob/main/challenge-amigo-secreto_esp-main/assets/animaciondinamica.png?raw=true" width="600">
